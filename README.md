@@ -7,8 +7,8 @@ Add confguration and Create Capability to connect IntelliJ java with Appium serv
 Create Four test cases in Java Script (Out of range, Calculator single function ,divide by zero, Combination
 mathematics )
 
-For Test case: "Calculator single function" used Dynamic element to test all numbers and operations by
-nested for loops
+At "Calculator single function" Test Case  Dynamic element wase used to test all possible numbers and operations by
+nested for loops (Automatic)
 
 Perform Test on physical device and emulator device (Android studio)
 
