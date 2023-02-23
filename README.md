@@ -1,4 +1,4 @@
-# Android-Mobile-testing_Calculator-APK-
+# Android-Mobile-testing_Calculator_APK
 Preparation 
 -Install Java, NodeJS, Android Studio ,Appium ,add dependencies TestNG , Java Clint
 
